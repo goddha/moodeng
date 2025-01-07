@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "water-splash.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 228,
+				"h": 76
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "water-splash-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 6,
+						"w": 73,
+						"h": 74
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 73,
+						"h": 74
+					}
+				},
+				{
+					"filename": "water-splash-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 10,
+						"w": 73,
+						"h": 73
+					},
+					"frame": {
+						"x": 76,
+						"y": 1,
+						"w": 73,
+						"h": 73
+					}
+				},
+				{
+					"filename": "water-splash-3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 93,
+						"h": 90
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 11,
+						"w": 76,
+						"h": 71
+					},
+					"frame": {
+						"x": 151,
+						"y": 1,
+						"w": 76,
+						"h": 71
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:58a589edccee77a55ed1190ff83a41f9:6f57240193fdf6deaa2695e291e37bde:fccab561a367ce2e2d490b6982293a38$"
+	}
+}
