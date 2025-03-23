@@ -60,7 +60,7 @@ export class Preloader extends Scene {
         }
         )
         assetName.audio.map((name) => {
-            this.load.audio(`${name}`, `${name}.ogg`);
+            this.load.audio(`${name}`, `${name}.mp3`);
         }
         )
 
