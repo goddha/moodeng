@@ -21,6 +21,7 @@ export const quotes = [
     `Look at Moodeng. She's the captain now.`,
     `You are tearing me apart, Moodeng!`,
     `I'm gonna bite you.. very.. very... bad!`,
+    `It's Moodeng, B*tch`
 ]
 
 // `I am Moodeng.`,
